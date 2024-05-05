@@ -8,7 +8,7 @@ metrics
 
 # 1. Clone the repository:
    bash:  
-   git clone https://github.com/Assignment.git  
+   git clone https://github.com/29deepanshutyagi/Assignment.git  
    cd project-directory (vendor-management-system-django  )
 
 # 2.Create a virtual environment:
